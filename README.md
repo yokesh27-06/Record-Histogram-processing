@@ -199,29 +199,29 @@ plt.show()
 
 - Original grayscale image is displayed.
 
-<img width="733" height="434" alt="image" src="https://github.com/user-attachments/assets/7adf9740-0a59-45d8-9bb7-876148fa270e" />
+<img width="642" height="420" alt="image" src="https://github.com/user-attachments/assets/c0e84d92-33d7-4362-a09f-f26f7a2a8790" />
 
 
 - Histogram of the original grayscale image is plotted.
 
-<img width="933" height="546" alt="image" src="https://github.com/user-attachments/assets/0adaf87a-6bcd-433c-a3d0-18965ad3e40f" />
+ <img width="740" height="456" alt="image" src="https://github.com/user-attachments/assets/0f95a5e8-7e59-4de2-bb09-180ea2e25e76" />
 
 
 - Equalized grayscale image is displayed.
 
-<img width="914" height="539" alt="image" src="https://github.com/user-attachments/assets/16772446-98d3-4fa0-98b3-8be22ec734fa" />
+ <img width="695" height="463" alt="image" src="https://github.com/user-attachments/assets/8f2ab4c0-d7a3-4ffa-81a1-6bb274de2766" />
 
 
 - Histogram of the equalized image shows improved contrast.
 
-<img width="841" height="442" alt="image" src="https://github.com/user-attachments/assets/11583a8e-29b5-40f3-a772-0cd115d505d1" />
+ <img width="651" height="416" alt="image" src="https://github.com/user-attachments/assets/4697c234-bbd1-4794-b03a-d0dd6c02c253" />
 
 
 ### Color Image Histogram Equalization
 
-<img width="1384" height="382" alt="image" src="https://github.com/user-attachments/assets/f1dbfb06-db1f-46e6-a7e9-86f761981c1c" />
+<img width="1107" height="329" alt="image" src="https://github.com/user-attachments/assets/dff04549-b6cc-4d4a-97ca-020d0def21db" />
 
-<img width="1378" height="412" alt="image" src="https://github.com/user-attachments/assets/0ccbdf69-d378-4b64-b313-70e4851a164f" />
+<img width="1112" height="362" alt="image" src="https://github.com/user-attachments/assets/108079b2-df20-4cb4-950d-93350becc4df" />
 
 
 ## Result
